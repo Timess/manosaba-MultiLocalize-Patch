@@ -1,4 +1,8 @@
-# manosaba-MultiLocalize-Patch
+# 说明
+manosaba
+
+魔法少女的魔女审判
+
 中日双语补丁，同时显示中文与日文
 
 # 适用版本
