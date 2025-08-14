@@ -10,6 +10,6 @@
 选项2：将version.dll和manosaba.dll放入manosaba.exe同目录下，进入游戏将自动注入
 
 # 效果
-![效果](Screenshot 2025-08-14 194148.jpg)
-![效果](Screenshot 2025-08-14 194217.jpg)
+![效果](https://github.com/Timess/manosaba-MultiLocalize-Patch/blob/main/Screenshot 2025-08-14 194148.jpg?raw=true)
+![效果](https://github.com/Timess/manosaba-MultiLocalize-Patch/blob/main/Screenshot 2025-08-14 194217.jpg?raw=true)
 
